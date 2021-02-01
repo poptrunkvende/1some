@@ -111,8 +111,13 @@ html{
 }
 
 .cvideo{
-    position: relative;
-    right:80px;
+    margin-top: 20px;
+    width: 500px;
+    margin:0 auto;
+    display: block;
+    margin-bottom: 10px;
+
+
 
 }
 
