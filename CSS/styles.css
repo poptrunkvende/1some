@@ -66,7 +66,7 @@ html{
 
 
 .main-banner{
-    background-image: url(/image/peeps-in-coffee.jpg);
+    background-image: url(../image/peeps-in-coffee.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -89,7 +89,7 @@ html{
 }
 
 .banner-2 {
-    background-image: url(/image/2c.jpg);
+    background-image: url(../image/2c.jpg);
     height: 600px;
     border-radius: 10px;
 
@@ -103,7 +103,7 @@ html{
 }
 
 .third-banner{
-     background-image: url(/image/ansip.jpg);
+     background-image: url(../image/ansip.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
