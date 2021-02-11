@@ -96,11 +96,7 @@ html{
     
 
 }
-.banner-2
-{
-    height: 600px;
-    border-radius: 10px;
-}
+
 
 .third-banner{
      background-image: url(../image/ansip.jpg);
@@ -131,7 +127,16 @@ html{
     
 }
     
+.carousel-item-active {
+    width:100%;
+    height:250px;
+
+}
     
+.carousel-item{
+    width: auto;
+    height: 250px;
+}
 
   
 
